@@ -1,6 +1,5 @@
 {
-  "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "db": "mongodb://localhost/vidly_tests",
-  "port": "3900",
-  "requiresAuth": false
+    "jwtPrivateKey": "1234",
+    "db": "mongodb+srv://ten3live:sajjadali786@sajjadsolangi.eduls.mongodb.net/test",
+    "port":3900
 }
