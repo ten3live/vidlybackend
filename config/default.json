@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://ten3live:sajjadali7@sajjad.5lu0u.mongodb.net/sajjad?retryWrites=true&w=majority",
+  "db": "mongodb+srv://ten3live:sajjadali7@sajjad.5lu0u.mongodb.net/vidly",
   "port": "3900",
   "requiresAuth": false
 }
