@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "db":"mongodb+srv://ten3live:sajjadali7@cluster0.k2mdu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "db": "mongodb://localhost/vidly_tests",
   "port": "3900",
   "requiresAuth": false
 }
