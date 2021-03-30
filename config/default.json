@@ -1,5 +1,5 @@
 {
     "jwtPrivateKey": "1234",
-    "db": "mongodb+srv://ten3live:sajjadali786@sajjadsolangi.eduls.mongodb.net/test",
+    "db": "mongodb+srv://ten3live:sajjadali786@sajjadsolangi.eduls.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "port":3900
 }
