@@ -1,0 +1,4 @@
+heroku config:set NODE_ENV=development 
+heroku config:set vidly_jwtPrivateKey:1234 
+heroku config:set NODE_ENV_PORT=3900 
+heroku config:set vidly_db=mongodb+srv://ten3live:sajjadali786@sajjadsolangi.eduls.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
